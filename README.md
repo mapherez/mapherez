@@ -13,17 +13,17 @@ Using AI to move faster from ideas to working products.
 
 <table>
 <tr>
-<td width="35%" valign="middle">
+<td width="25%" valign="middle">
 
 ### Socials
 
 <a href="https://www.linkedin.com/in/pedrombg/">
-  <img src="https://img.shields.io/badge/LinkedIn-Pedro_Gonçalves-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" />
 </a>
 
 </td>
 
-<td width="65%" valign="middle">
+<td width="75%" valign="middle">
 
 ### Stack
 
